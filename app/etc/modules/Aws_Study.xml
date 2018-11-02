@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Aws_Study>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Aws_Study>
+    </modules>
+</config>
