@@ -3,24 +3,7 @@
 <config>
     <modules>
         <Aws_Study>
-            <version>0.0.2</version>
+            <version>0.0.1</version>
         </Aws_Study>
     </modules>
-    <global>
-        <models>
-            <study>
-                <class>Aws_Study_Model</class>
-            </study>
-        </models>
-        <blocks>
-            <study>
-                <class>Aws_Study_Block</class>
-            </study>
-        </blocks>
-        <helpers>
-            <study>
-                <class>Aws_Study_Helper</class>
-            </study>
-        </helpers>
-    </global>
 </config>
